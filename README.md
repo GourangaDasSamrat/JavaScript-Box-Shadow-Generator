@@ -3,7 +3,7 @@
 Create stunning box shadows with ease using this intuitive tool!
 
 🌟 **Live Demo**
-Check out the live version of the website: [Box shadow Generator](https://javascriptboxshadowgenegratorbygouranga.tiiny.site/)
+Check out the live version of the website: [Box shadow Generator](https://java-script-box-shadow-generator.vercel.app/)
 
 📹 **Demo Video**
 Watch the video walkthrough of the project to see it in action!
@@ -51,7 +51,7 @@ Enjoy view this site.!
 
 or
 
-**[Click here](https://javascriptboxshadowgenegratorbygouranga.tiiny.site/) to see this project on internet.**
+**[Click here](https://java-script-box-shadow-generator.vercel.app/) to see this project on internet.**
 
 ##  Contributing
 
